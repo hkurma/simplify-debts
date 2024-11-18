@@ -1,0 +1,35 @@
+{
+  "name": "simplify-debts",
+  "version": "1.0.0",
+  "description": "Javascript library to simplify debts in a group by minimizing the number of payments.",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkurma/simplify-debts.git"
+  },
+  "keywords": [
+    "simplify",
+    "debts",
+    "splitwise",
+    "javascript",
+    "typescript",
+    "library"
+  ],
+  "author": "hkurma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkurma/simplify-debts/issues"
+  },
+  "homepage": "https://github.com/hkurma/simplify-debts#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.6.3",
+    "typescript-eslint": "^8.14.0"
+  }
+}
