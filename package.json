@@ -12,11 +12,11 @@
     "url": "git+https://github.com/hkurma/simplify-debts.git"
   },
   "keywords": [
-    "simplify",
-    "debts",
+    "simplify debts",
     "splitwise",
-    "javascript",
     "typescript",
+    "javascript",
+    "jest",
     "library"
   ],
   "author": "hkurma",
